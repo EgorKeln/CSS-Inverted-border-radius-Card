@@ -60,7 +60,6 @@ body {
     position: relative;
     width: 110%;
     height: 200px;
-    background: #f00;
     border-radius: 15px;
 }
 .card .box:nth-child(1)::before {
